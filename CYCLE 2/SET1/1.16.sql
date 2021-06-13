@@ -1,0 +1,1 @@
+SELECT rating,AVG(age) FROM SAILORS GROUP BY rating;

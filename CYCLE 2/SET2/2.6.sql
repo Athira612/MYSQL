@@ -1,0 +1,1 @@
+SELECT * FROM worker WHERE trim(first_name) != 'vipul' AND trim(first_name)   != 'satich';

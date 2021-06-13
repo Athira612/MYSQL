@@ -1,0 +1,1 @@
+SELECT sname FROM SAILORS WHERE rating >7;

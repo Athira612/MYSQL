@@ -1,0 +1,2 @@
+ALTER TABLE bonus DROP CONSTRAINT fk_cod_csd;
+SELECT * FROM worker;

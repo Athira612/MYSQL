@@ -1,0 +1,2 @@
+CREATE TABLE BOATS
+( Bid INT(3), bname VARCHAR(10), color VARCHAR(7));

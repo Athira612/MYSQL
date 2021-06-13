@@ -1,0 +1,1 @@
+SELECT COUNT(c.sname)FROM(SELECT DISTINCT sname FROM Sailors) c;
