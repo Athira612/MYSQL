@@ -1,0 +1,1 @@
+SELECT * FROM employee,department  WHERE NOT(dno=dnumber);

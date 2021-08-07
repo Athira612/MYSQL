@@ -1,0 +1,1 @@
+SELECT ename FROM employee LEFT OUTER JOIN department  on dnumber=dno WHERE salary BETWEEN 30000 AND 40000 AND dnumber=5;

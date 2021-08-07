@@ -1,0 +1,1 @@
+CREATE TABLE employee(ssn INT PRIMARY KEY,ename VARCHAR(25) NOT NULL,design VARCHAR(25),dno INT,doj  DATE ,salary INT);

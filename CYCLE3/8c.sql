@@ -1,0 +1,1 @@
+SELECT * FROM employee LEFT OUTER JOIN department  ON dno=dnumber; 

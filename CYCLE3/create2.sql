@@ -1,0 +1,1 @@
+CREATE TABLE department (dnumber INT PRIMARY KEY,dname VARCHAR(20),loc VARCHAR(40),mgrssn INT REFERENCES employe(ssn));

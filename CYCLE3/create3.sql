@@ -1,0 +1,1 @@
+CREATE TABLE  Project(pnumber INT PRIMARY KEY,pname varchar(15),dnum INT,FOREIGN KEY (dnum) REFERENCES department(dnumber));
