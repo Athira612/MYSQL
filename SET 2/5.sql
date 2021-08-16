@@ -1,0 +1,1 @@
+drop table customer,bank_brn,deposit,loan,accounts_in,depositor,borrower;
